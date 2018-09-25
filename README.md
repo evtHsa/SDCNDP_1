@@ -56,7 +56,7 @@ The progressive transformations look like:
 
 
 - currently the solid yellow curve 2 image shows the lane markers clearly to the left of where they should be because my naive average calculation weights the distant(curving) lines equally to the nearer ones.
-- the naive algorithis also humbled by the black sedan in the lane to the right. this seems confirmed that, as the sedan pulls farther and farther ahead our error becomes less egregious 
+- the naive algorithim s also humbled by the black sedan in the lane to the right. this seems confirmed that, as the sedan pulls farther and farther ahead our error becomes less egregious 
 
 
 ### 3. Suggest possible improvements to your pipeline
